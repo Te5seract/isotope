@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'isotope';
-  src:  url('fonts/isotope.eot?4i64kw');
-  src:  url('fonts/isotope.eot?4i64kw#iefix') format('embedded-opentype'),
-    url('fonts/isotope.ttf?4i64kw') format('truetype'),
-    url('fonts/isotope.woff?4i64kw') format('woff'),
-    url('fonts/isotope.svg?4i64kw#isotope') format('svg');
+  src:  url('fonts/isotope.eot?29ab9k');
+  src:  url('fonts/isotope.eot?29ab9k#iefix') format('embedded-opentype'),
+    url('fonts/isotope.ttf?29ab9k') format('truetype'),
+    url('fonts/isotope.woff?29ab9k') format('woff'),
+    url('fonts/isotope.svg?29ab9k#isotope') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.iso-alchemy-icon:before {
+  content: "\e945";
+}
+.iso-alchemy-full:before {
+  content: "\e944";
+}
+.iso-paradigm-icon:before {
+  content: "\e947";
+}
+.iso-paradigm-full:before {
+  content: "\e946";
+}
+.iso-xenium-icon:before {
+  content: "\e949";
+}
+.iso-xenium-full:before {
+  content: "\e948";
+}
 .iso-te5seract:before {
   content: "\e943";
 }

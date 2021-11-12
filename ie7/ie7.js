@@ -13,6 +13,12 @@
 		el.innerHTML = '<span style="font-family: \'isotope\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'iso-alchemy-icon': '&#xe945;',
+		'iso-alchemy-full': '&#xe944;',
+		'iso-paradigm-icon': '&#xe947;',
+		'iso-paradigm-full': '&#xe946;',
+		'iso-xenium-icon': '&#xe949;',
+		'iso-xenium-full': '&#xe948;',
 		'iso-te5seract': '&#xe943;',
 		'iso-mirage-letterhead': '&#xe942;',
 		'iso-css': '&#xe936;',
